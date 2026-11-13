@@ -1,0 +1,1 @@
+alert("HAND CARE LABへようこそ！");
